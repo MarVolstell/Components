@@ -1,0 +1,16 @@
+.block {
+    text-align: center;
+    background-color: #faf1cf;
+}
+h1, h2 {
+    font-size: 2em;
+}
+.card-body{
+    background-color: #fbcded;
+}
+.card-text, .card-title {
+    color: #ffffff;
+}
+header{
+    height: 200px;
+}
